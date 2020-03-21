@@ -1,11 +1,11 @@
-title: Your awesome title
+title: Michael's Pages
 author:
   name: Michael Chen
   email: chenfangwen@live.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  It's Michael's Pages which are hosted in Github.
+  Michael's Pages hosted in Github.
 
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -14,8 +14,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    #twitter: jekyllrb
+    #github:  jekyll
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll

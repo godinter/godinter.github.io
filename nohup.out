@@ -4,8 +4,7 @@ Configuration file: /root/myblog/_config.yml
  Incremental build: enabled
       Generating... 
        Jekyll Feed: Generating feed for posts
-                    done in 0.53 seconds.
+                    done in 0.352 seconds.
  Auto-regeneration: enabled for '/root/myblog'
     Server address: http://10.112.32.178:4000
   Server running... press ctrl-c to stop.
-[2020-03-20 16:49:13] ERROR `/web/' not found.
