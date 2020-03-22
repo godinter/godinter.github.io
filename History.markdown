@@ -1,8 +1,5 @@
-## History
-
-
 ## 0.0.1 / 2020-03-22
 
-  * initially making the pages
+  * initially build the pages
   * Update the About
-  * First post
+  * Post the 1st blog
