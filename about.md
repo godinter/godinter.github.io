@@ -3,16 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
+Hello, I am Michael Chen(wechat:godinter) and I am working for NIO as a Sr. Engineer in the Cloud team. 
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am proficient in VMware virtualization & VMware Cloud platform. I am also familiar with Linux, scripting(Python/Bash/Perl) and know the fundamentals of Docker, Kubernetes, Ansible.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I enjoy reading, coffee and outdoor activities.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I make Michael's Pages just for fun. Enjoy your day and tomorrow is another day. 
